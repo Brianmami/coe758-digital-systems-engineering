@@ -1,0 +1,15 @@
+NET "clk" LOC = "C9";
+
+NET "led<0>" LOC = "F12";
+NET "led<1>" LOC = "E12";
+NET "led<2>" LOC = "E11";
+NET "led<3>" LOC = "F11";
+NET "led<4>" LOC = "C11";
+NET "led<5>" LOC = "D11";
+NET "led<6>" LOC = "E9";
+NET "led<7>" LOC = "F9";
+
+NET "switches<0>" LOC = "L13";
+NET "switches<1>" LOC = "L14";
+NET "switches<2>" LOC = "H16";
+NET "switches<3>" LOC = "N17";
